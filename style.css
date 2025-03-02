@@ -42,17 +42,13 @@ a{
     
 }
 #login{
-   PADDING:150PX;
-   margin-top: 10PX;
-   padding-left: 400PX;
+height: 100vh;
+
     background-image: URL("https://images.unsplash.com/photo-1732491482042-bfb6bc27678e?q=80&w=2053&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    
+    margin-top: 20px;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
-    text-align: center;
-
-
 
 }
     H1{
@@ -71,12 +67,8 @@ a{
     font-size:20px;
     color: rgb(255, 0, 0);
 }
-#inside{
-    text-align: center;
-   padding-left: 25PX;;
 
-    width:40vh;
-    height: 40vh;
-    border-radius: 20px;
-    background-color: orange;
+#inside{
+    
+    
 }
